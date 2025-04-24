@@ -6,7 +6,7 @@ import requests
 
 
 # Конфигурация API
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
